@@ -1,0 +1,27 @@
+{
+  "name": "create-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "encoding-down": "^4.0.0",
+    "ethereumjs-account": "^2.0.4",
+    "ethereumjs-util": "^5.2.0",
+    "ganache-cli": "^6.1.0",
+    "level": "^3.0.1",
+    "leveldown": "^3.0.1",
+    "levelup": "^2.0.2",
+    "mocha": "^5.1.1",
+    "solc": "^0.4.23",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.34",
+    "web3-eth-accounts": "^1.0.0-beta.34",
+    "web3-provider-engine": "^14.0.5"
+  }
+}
